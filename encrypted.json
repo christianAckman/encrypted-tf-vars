@@ -1,0 +1,22 @@
+{
+	"database_username": "",
+	"database_password": "",
+	"sops": {
+		"kms": [
+			{
+				"arn": "",
+				"created_at": "",
+				"enc": "",
+				"aws_profile": ""
+			}
+		],
+		"gcp_kms": null,
+		"azure_kv": null,
+		"hc_vault": null,
+		"lastmodified": "",
+		"mac": "",
+		"pgp": null,
+		"unencrypted_suffix": "",
+		"version": ""
+	}
+}
